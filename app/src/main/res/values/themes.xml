@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Seu tema base da aplicação.
+         Você pode manter "android:Theme.Material.Light.NoActionBar"
+         ou usar um tema mais moderno como "Theme.MaterialComponents.DayNight.DarkActionBar"
+         que já vem com mais definições de estilo e cores.
+         Se mantiver o seu, pode ser que precise definir cores primárias/secundárias
+         manualmente se quiser usá-las explicitamente mais tarde. -->
+    <style name="Theme.HamburgueriaZ" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Você pode adicionar personalizações ao seu tema principal aqui, como cores primárias, etc.
+             Exemplo (opcional, mas recomendado se usar temas Material):
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        -->
+    </style>
+
+    <!-- Estilo pré-definido para textos, conforme solicitado na Etapa 3 -->
+    <style name="EstiloTexto">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <!-- Mantenha esta linha se já existir, ou adicione o nome do seu app -->
+    <string name="app_name">HamburgueriaZ</string>
+
+    <!-- Textos para a interface da HamburgueriaZ -->
+    <string name="logo_da_hamburgueria">Logo da HamburgueriaZ</string>
+    <string name="faca_seu_pedido">FAÇA SEU PEDIDO!</string>
+    <string name="nome_do_cliente_hint">Nome do Cliente</string>
+    <string name="adicionais_label">Adicionais:</string>
+    <string name="bacon_checkbox_label">Bacon (R$ 2,00)</string>
+    <string name="queijo_checkbox_label">Queijo (R$ 2,00)</string>
+    <string name="onion_rings_checkbox_label">Onion Rings (R$ 3,00)</string>
+    <string name="quantidade_label">QUANTIDADE</string>
+    <string name="quantidade_inicial">1</string>
+    <string name="botao_subtrair_label">-</string>
+    <string name="botao_adicionar_label">+</string>
+    <string name="resumo_do_pedido_label">RESUMO DO PEDIDO</string>
+    <string name="preco_inicial_label">R$ 0.00</string>
+    <string name="fazer_pedido_botao_label">FAZER PEDIDO</string>
+</resources>
