@@ -89,7 +89,6 @@
 
             <Button
                 android:id="@+id/buttonSubtrair"
-                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
                 android:text="@string/botao_subtrair_label"
@@ -107,7 +106,6 @@
 
             <Button
                 android:id="@+id/buttonAdicionar"
-                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
                 android:text="@string/botao_adicionar_label"
